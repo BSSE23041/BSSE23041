@@ -9,7 +9,7 @@
 
 🌱 Currently mastering **Advanced Database Systems**, **Cloud Architecture**, and **System Design Patterns**.
 
-📫 **Connect with me:** [fasiharohail@gmail.com](mailto:fasiharohail@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fasiha-rohail-283a30289/)
+📫 **Connect with me:** [fasiharohail@gmail.com](mailto:fasiharohail@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fasiha-rohail-283a30289)
 
 ---
 
