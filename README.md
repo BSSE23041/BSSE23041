@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fasiha Rohail</h1>
-<h3 align="center">Software Engineering Student at ITU Lahore 💻 | 3rd Year | Full Stack & Cloud Developer</h3>
+<h3 align="center">Software Engineering Student at ITU Lahore 💻 | 3rd Year | Full Stack & UI/UX Developer</h3>
 
 ---
 
 🎓 I'm a **3rd Year BS Software Engineering** student at **Information Technology University (ITU), Lahore**.  
 
-💡 I enjoy architecting full-stack solutions, focusing on the **MERN stack**, **AWS Cloud**, and **UI/UX Design**. I have a unique background in **Hardware-Software integration**, ranging from FPGA processing to scalable cloud apps.
+💡 I specialize in architecting full-stack solutions with the **MERN stack** and **AWS Cloud**. I am passionate about creating high-fidelity, user-centric designs in **Figma** that prioritize privacy and seamless user onboarding.
 
 🌱 Currently mastering **Advanced Database Systems**, **Cloud Architecture**, and **System Design Patterns**.
 
@@ -28,20 +28,19 @@
 
 ### 🚀 Featured Projects
 
-- ☁️ **MERN Cloud-Based Notes App** – A 3-tier architecture platform built on **AWS** featuring journaling, data management, and budget tracking.
-- 🎨 **Mobile Mechanics Service App (UI/UX)** – A high-fidelity **Figma** prototype developed using HCI principles and user-centered design.
+- 💍 **Rishtay — High-Fidelity Mobile Interface** – Designed a clean, trust-oriented visual language focused on user privacy and seamless onboarding using Figma's Auto Layout and Components.
+- ☁️ **MERN Cloud-Based Notes App** – A 3-tier architecture platform deployed on **AWS** featuring secure journaling, data management, and budget tracking.
+- 🎨 **Mobile Mechanics Service App (UI/UX)** – A high-fidelity prototype developed using user-centered design principles and intuitive navigation flows.
 - ⚡ **EMI/EMC-Compliant Power Supply** – Hardware design adhering to **MIL-STD-704/461** ($28V$ input, $120W$ delivery).
-- 🔊 **Audio Pre-Processor (FPGA)** – Implemented 4 FIR filters and delay blocks using optimized multiplier/CSA tree architecture.
 
 ---
 
-### 🏅 Certifications & Experience
+### 🏅 Experience & Certifications
 
-- 🏢 **Teaching Assistant:** Object Oriented Programming (OOP) at ITU.
+- 🧪 **Lab Engineer:** Object Oriented Programming (OOP) at ITU.
 - 🏆 **Microsoft Certified:** JavaScript & React.js Bootcamp.
 - 📊 **Coursera Certified:** Project Management with Jira.
-- 📱 **Digital Marketing:** Evolution E-commerce & Marketing Programme.
-- 🌿 **WWF-Pakistan:** Digital Eco-Internship (Environmental Research).
+- 🏢 **Internships:** TrueDevs (AI Research), Evolution (Digital Marketing), WWF-Pakistan (Digital Eco-Internship).
 
 ---
 
