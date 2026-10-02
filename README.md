@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fasiha Rohail</h1>
-<h3 align="center">Software Engineering Student at ITU Lahore 💻 | 3rd Year | Full Stack & UI/UX Developer</h3>
+<h3 align="center">Software Engineering Student at ITU Lahore 💻 | 4th Year | Full Stack & UI/UX Developer</h3>
 
 ---
 
